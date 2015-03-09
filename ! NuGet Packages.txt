@@ -1,0 +1,2 @@
+Install-Package Owin -Version 1.0.0 -ProjectName Middlewares
+Install-Package Microsoft.Owin.SelfHost -Version 3.0.1 -ProjectName SelfHost
